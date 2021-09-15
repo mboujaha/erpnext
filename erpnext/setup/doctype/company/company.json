@@ -740,6 +740,12 @@
    "fieldname": "section_break_28",
    "fieldtype": "Section Break",
    "label": "Chart of Accounts"
+  },
+  {
+   "fieldname": "type",
+   "fieldtype": "Link",
+   "label": "type",
+   "options": "Company type"
   }
  ],
  "icon": "fa fa-building",
